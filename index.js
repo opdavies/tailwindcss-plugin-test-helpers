@@ -1,5 +1,5 @@
-const config = require('./config')
-const generators = require('./generators')
+const config = require('./src/config')
+const generators = require('./src/generators')
 const postcss = require('postcss')
 const tailwindcss = require('tailwindcss')
 
