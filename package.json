@@ -1,0 +1,16 @@
+{
+  "name": "tailwindcss-plugin-test-helpers",
+  "version": "1.0.0",
+  "description": "Helper functions for writing test for Tailwind CSS plugins.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["tailwindcss", "tailwindcss-plugin"],
+  "author": "Oliver Davies",
+  "license": "MIT",
+  "dependencies": {
+    "postcss": "^7.0.17",
+    "tailwindcss": "^1.0.5"
+  }
+}
