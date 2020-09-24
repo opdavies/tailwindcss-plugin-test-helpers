@@ -10,7 +10,7 @@
   "author": "Oliver Davies",
   "license": "MIT",
   "dependencies": {
-    "postcss": "^7.0.17",
+    "postcss": "^8.0.9",
     "tailwindcss": "^1.0.5"
   }
 }
